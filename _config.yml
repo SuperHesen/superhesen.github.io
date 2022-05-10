@@ -3,3 +3,7 @@ theme: jekyll-theme-cayman
 layout: page
 title: "Privacy"
 permalink: /privacy.html
+
+layout: page
+title: "EULA"
+permalink: /eula.html
